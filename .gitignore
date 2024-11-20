@@ -1,0 +1,27 @@
+data/
+**/data/
+**/__MACOSX/
+test/
+train/
+val/
+wandb/
+settings.json
+.env
+
+# Python-related files that should typically be ignored
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+.env/
+ENV/
+
+*.pth
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.cpython-*
